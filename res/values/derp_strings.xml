@@ -465,4 +465,6 @@
 
     <string name="battery_temp">Battery temperature</string>
 
+    <!-- Toolbar -->
+    <string name="settings_head_title">Syberia OS</string>
 </resources>
